@@ -1,6 +1,6 @@
-# Covolutional Neural Network for gastrointestinal disease multi class classification.
+# Covolutional Neural Network for gastrointestinal tract images multi class classification.
 
-The aim of this repository is identify and classify 8 different types of images of gastrointestinal medical dataset. With 40 epochs, a validation accuracy of 77%. 
+The aim of this repository is identify and classify 8 different types of images of gastrointestinal tract medical dataset. With 40 epochs, a validation accuracy of 77%. 
 
 ### The classes for classification:
 - Dyed and lifted polyps;
