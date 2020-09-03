@@ -25,7 +25,7 @@ train_datagenerator = ImageDataGenerator(rescale=1./255,
 training_set = train_datagenerator.flow_from_directory('gastrointestinal_dataset/train_set',
                                                     target_size=(64,64),
                                                     batch_size=32,
-                                                    class_mode='binary')
+                                                    class_mode='sparse')
 
 #test_set
 
